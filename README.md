@@ -1,6 +1,6 @@
 <div align="center">
 
-# 📈 linear-regression
+# 📈 logistic-regression
 
 un mic cod facut de mine dupa un curs de la developers.google.com despre machine learning si LLM uri
 
@@ -42,7 +42,7 @@ flowchart LR
 
 ## 🚀 cum il rulezi? simplu
 ```bash
-python3 linear_regression.py
+python3 logistic_regression.py
 ```
 
 💖 pupici tuturor :* 💖
