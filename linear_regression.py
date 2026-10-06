@@ -127,7 +127,7 @@ time.sleep(1.2)
 if test_p > threshold:
     print(f"the test person will likely buy the item with a {test_p*100:.2f}% probability")
 else:
-    print(f"the test person will likely not buy the item, with a {test_p*100:.2f}% probability")
+    print(f"the test person will likely not buy the item, with a {(1-test_p*100):.2f}% probability")
 
 time.sleep(1)
 print("nice isn't it? i hope you liked my little code")
